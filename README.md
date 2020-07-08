@@ -44,7 +44,9 @@ See above
 
 ## Version history
 
-Unavailable
+[V2.01A - GitHub release 1](https://github.com/seanpm2001/SPM_FoodIndex/releases/tag/V2.01A/) - 131 commits (Released: Wednesday, July 8th 2020 at 1:56 pm)
+
+[V2.01B - GitHub release 2](https://github.com/seanpm2001/SPM_FoodIndex/releases/tag/V2.01B/) - 180 commits: (Released Wednesday, July 8th 2020 at 2:10 pm)
 
 [More versions coming soon](https://www.example.com/)
 
@@ -54,7 +56,7 @@ Unavailable
 
 Currently, I am the only contributer, but if you follow ther CONTRIBUTING rules, you can contribute as well.
 
-1. [seanpm2001](https://github.com/seanpm2001/) - 131 commits (As of Wednesday, July 8th 2020 at 1:53 pm)
+1. [seanpm2001](https://github.com/seanpm2001/) - 183 commits (As of Wednesday, July 8th 2020 at 2:16 pm)
 
 2. No other contributers at the moment
 
@@ -70,9 +72,9 @@ Please abide by the contributing rules for this project. They are listed [here.]
 
 File type: `Markdown (*.md)`
 
-Line count (including blank lines): `84`
+Line count (including blank lines): `86`
 
-File version: `1 (Wednesday, July 8th 2020 at 1:53 pm)`
+File version: `2 (Wednesday, July 8th 2020 at 2:16 pm)`
 
 ***
 
