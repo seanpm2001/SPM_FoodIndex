@@ -1,0 +1,36 @@
+===========================================================================
+Food list - the brand update
+
+Brands (food)
+
+Signature select - pretzels (Sticks) (normal)
+Rold Gold - pretzels (Sticks) (normal) 
+Lays - Barbeque chips (Only lays for Barbeque chips)
+Great value - Saltine crackers(not the best kind to me)
+Nabisco - Saltine crackers (My favorite kind)
+Wetzel soft pretzels (plain, or with salt)
+Fritolay - Fritos
+
+Brands (drink)
+
+Darigold - Chocolate milk (old fashioned)
+Darigold - Chocolate milk (original)
+
+Brand missing (food)
+
+Cake - Reeses peanut butter cup
+Cake - Reeses
+Pretzel rods
+[common brand] - soft pretzels (plain, or with salt)
+
+File version history
+
+Version 1: March 26th 2020
+Version 2: Coming soon
+
+Blank space after EOF
+
+ 
+  
+   
+	
