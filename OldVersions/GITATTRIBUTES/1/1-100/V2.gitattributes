@@ -1,0 +1,127 @@
+# Start of script
+# .gitattributes
+# This file defines what languages can show up in the GitHub linguist menu (the menu that tells you what percentage each language is using up on this project.
+# Some non-programming languages must be included manually with this file. Want to create your own? Do something similar to what is done here, and name the file
+# .gitattributes
+# and nothing else, no characters before, no characters after
+# Start of linguist script
+# Makefile
+# Do not make this detectable, it will upset the balance. - August 19th 2021
+*.mk linguist-detectable=false
+*.mk linguist-documentation=false
+*.mk linguist-language=Makefile
+*.mak linguist-detectable=false
+*.mak linguist-documentation=false
+*.mak linguist-language=Makefile
+*.make linguist-detectable=false
+*.make linguist-documentation=false
+*.make linguist-language=Makefile
+*.makefile linguist-detectable=false
+*.makefile linguist-documentation=false
+*.makefile linguist-language=Makefile
+# Rich Text Format
+# Do not make this detectable, it will upset the balance. - August 19th 2021
+*.rtf linguist-detectable=false
+*.rtf linguist-documentation=false
+*.rtf linguist-language=Rich_Text_Format
+# YAML
+# Do not make this detectable, it will upset the balance - August 26th 2021
+*.yml linguist-detectable=false
+*.yml linguist-documentation=false
+*.yml linguist-language=YAML
+*.yaml linguist-detectable=false
+*.yaml linguist-documentation=false
+*.yaml linguist-language=YAML
+# HTML
+*.htm linguist-detectable=true
+*.htm linguist-documentation=false
+*.htm linguist-language=HTML
+*.html linguist-detectable=true
+*.html linguist-documentation=false
+*.html linguist-language=HTML
+*.xhtm linguist-detectable=true
+*.xhtm linguist-documentation=false
+*.xhtm linguist-language=HTML
+*.xhtml linguist-detectable=true
+*.xhtml linguist-documentation=false
+*.xhtml linguist-language=HTML
+*.mhtm linguist-detectable=true
+*.mhtm linguist-documentation=false
+*.mhtm linguist-language=HTML
+*.mhtml linguist-detectable=true
+*.mhtml linguist-documentation=false
+*.mhtml linguist-language=HTML
+# SVG
+# Do not make this detectable, it will upset the balance - August 26th 2021
+*.svg linguist-detectable=false
+*.svg linguist-documentation=false
+*.svg linguist-language=SVG
+# AppleScript
+*.applescript linguist-detectable=true
+*.applescript linguist-documentation=false
+*.applescript linguist-language=AppleScript
+*.scpt linguist-detectable=true
+*.scpt linguist-documentation=false
+*.scpt linguist-language=AppleScript
+*.scptd linguist-detectable=true
+*.scptd linguist-documentation=false
+*.scptd linguist-language=AppleScript
+# Liquid
+*.liquid linguist-detectable=true
+*.liquid linguist-documentation=false
+*.liquid linguist-language=Liquid
+# Elixir
+*.ex linguist-detectable=true
+*.ex linguist-documentation=false
+*.ex linguist-language=Elixir
+# CoffeeScript
+*.coffee linguist-detectable=true
+*.coffee linguist-documentation=false
+*.coffee linguist-language=CoffeeScript
+*.litcoffee linguist-detectable=true
+*.litcoffee linguist-documentation=false
+*.litcoffee linguist-language=CoffeeScript
+# Gherkin
+*.feature linguist-detectable=true
+*.feature linguist-documentation=false
+*.feature linguist-language=Gherkin
+# Java
+*.java linguist-detectable=true
+*.java linguist-documentation=false
+*.java linguist-language=Java
+# JavaScript
+*.js linguist-detectable=true
+*.js linguist-documentation=false
+*.js linguist-language=JavaScript
+# JavaScript++
+*.jspp linguist-detectable=true
+*.jspp linguist-documentation=false
+*.jspp linguist-language=JavaScript++
+# Lisp Flavored Erlang (LFE)
+*.lfe linguist-detectable=true
+*.lfe linguist-documentation=false
+*.lfe linguist-language=LFE
+*.hrl linguist-detectable=true
+*.hrl linguist-documentation=false
+*.hrl linguist-language=LFE
+# Markdown
+# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
+# Still deciding if I want to switch the main language from HTML5 to Markdown - August 19th 2021
+*.md linguist-detectable=false
+*.md linguist-documentation=false
+*.md linguist-language=Markdown
+*.mkd linguist-detectable=false
+*.mkd linguist-documentation=false
+*.mkd linguist-language=Markdown
+*.mdown linguist-detectable=false
+*.mdown linguist-documentation=false
+*.mdown linguist-language=Markdown
+*.markdown linguist-detectable=false
+*.markdown linguist-documentation=false
+*.markdown linguist-language=Markdown
+# End of linguist script
+# File info
+# File type: gitattributes file (.gitattributes)
+# File version: 2 (2022, Thursday, May 26th at 1:57 pm PST)
+# Line count (including blank lines and compiler line): 128
+# End of script
